@@ -129,6 +129,3 @@ This project was developed as part of a robotics course in the Master's program 
 
 ---
 
-## **License**
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
