@@ -1,2 +1,1 @@
-# line_following_robot
-line following robot
+This project is a simple implementation of a Line Follower Robot using an Arduino Uno SMD CH340, motor driver L298N, IR sensors, and other basic components. The robot is designed to follow a black line on a white surface by detecting the line using IR sensors and controlling the motors accordingly.
